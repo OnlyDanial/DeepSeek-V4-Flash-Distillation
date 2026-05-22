@@ -8,6 +8,14 @@ The datasets are structured inside the s1K/ directory to accommodate future expa
 
 ---
 
+## Distillation Datasets
+| Dataset | Focus | Status |
+| ----- | ----- | ----- |
+| [s1K](https://huggingface.co/datasets/simplescaling/s1K) | Logic, Math, Science | [Complete](https://huggingface.co/datasets/OnlyDanial/s1K-DeepSeek-V4-Flash-Max-Thinking) |
+| [GSM8K](https://huggingface.co/datasets/openai/gsm8k) | Math | Coming Soon |
+
+---
+
 ## Repository Structure
 
 ```
